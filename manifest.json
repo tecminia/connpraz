@@ -4,8 +4,8 @@
   "description": "Compras inteligentes para seu dia a dia",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#efb3c7ec",
-  "theme_color": "#efb3c7ec",
+  "background_color": "#ffffff",
+  "theme_color": "#FFB6C1",
   "orientation": "portrait",
   "icons": [
     {
