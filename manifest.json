@@ -1,0 +1,22 @@
+{
+  "name": "Connpraz - Compras Inteligentes",
+  "short_name": "Connpraz",
+  "description": "Compras inteligentes para seu dia a dia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#efb3c7ec",
+  "theme_color": "#efb3c7ec",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
